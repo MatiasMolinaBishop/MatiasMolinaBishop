@@ -1,4 +1,4 @@
-Hi 👋 My name is Matias Molina Bishop
+Matias Molina Bishop
 =====================================
 
 Fullstack Web Developer
